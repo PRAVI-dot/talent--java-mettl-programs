@@ -1,3 +1,4 @@
+```
 class Result {
 static int[][][] dist;
 static int[][] dp;
@@ -83,3 +84,4 @@ dp[coin][seq] = res;
 return res;
 }
 }
+```
