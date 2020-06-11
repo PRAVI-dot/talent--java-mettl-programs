@@ -1,0 +1,4 @@
+Class even
+    public static int(int n){
+             If n%2==0{
+                     return even;
